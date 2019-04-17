@@ -1,0 +1,4 @@
+3
+Pushkin Dubrovskiy 1789 1001
+Gogol Revizor 1854 1002
+Dostoevskiy Besy 1876 1003
